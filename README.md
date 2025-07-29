@@ -1,2 +1,2 @@
 # CS50-Harvard
-Taking the Computer Science course from Harvard University
+Taking the Computer Science 50 course from Harvard University
